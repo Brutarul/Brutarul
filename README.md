@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Brutarul
+- 👀 I’m interested in Desktop and Web development 
+- 🌱 I’m currently learning C# in my apprenticeship
